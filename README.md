@@ -1,6 +1,6 @@
 <code>🎓 Student: SIBSIU / ICE-22</code>
 <code>⚪ Community: </code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>👷 Speciality: Software engineer / Backend / Computer science</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
