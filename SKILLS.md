@@ -17,8 +17,8 @@
 | 🟩 type              | 🟩 for..in            | 🟦 side effects       | 🟩 deque            | 🟩 decomposition     |
 | 🟩 primitive types   | 🟩 for..of            | 🟦 closure            | 🟩 serialization    | ⬜️ spaghetti         |
 | 🟩 reference         | 🟩 for await          | 🟦 partial            | 🟩 mixin, extend    | ⬜️ silver bullet     |
-| 🟦 flag              | 🟩 throw              | ⬜️ curry              | 🟩 iterator         | ⬜️ not invented here |
-| 🟦 lexical scope     | 🟩 try..catch         | 🟦 chaining           | 🟩 typed arrays     | 🟦 dead code         |
+| 🟩 flag              | 🟩 throw              | ⬜️ curry              | 🟩 iterator         | ⬜️ not invented here |
+| 🟩 lexical scope     | 🟩 try..catch         | 🟦 chaining           | 🟩 typed arrays     | 🟦 dead code         |
 | 🟩 code block        | 🟩 equality operators | 🟦 higher order       | 🟩 Map              | 🟦 unreachable code  |
 | 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟩 Set              | 🟦 duplicate code    |
 | 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | ⬜️ weak collections | 🟩 exception         |
@@ -47,14 +47,14 @@
 | 🟦 Generic programming         | 🟩 Field declarations | 🟩 Trees             |                          |
 | 🟦 Concurrent computing        | 🟩 Inheritance        | 🟩 Graphs            |                          |
 | 🟩 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
-| 🟩 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |
+| 🟩 Parallel programming        | 🟩 Polymorphism       | 🟩 Functional object |                          |
 | 🟩 Reactive programming        | 🟩 Abstract class     | ⬜ Monad             |                          |
 | ⬜ FRP (Functional-reactive)   | 🟩 Interface          | 🟩 Generator         |                          |
 | 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟩 Iterator          |                          |
 | 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟩 Async Iterator    |                          |
 | 🟦 Multi-paradigm programming  | ⬜ Object form        |                      |                          |
 | ⬜ Metaprogramming             | 🟩 instance           |                      |                          |
-| ⬜ Actor model                 | ⬜ Introspection      |                      |                          |
+| ⬜ Actor model                 | 🟩 Introspection      |                      |                          |
 |                                | 🟩 Reflection         |                      |                          |
 
 ## Asynchronous programming
