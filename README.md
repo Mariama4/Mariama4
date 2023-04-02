@@ -16,4 +16,4 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mariama4&show_icons=true&theme=dracula)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariama4&layout=compact&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariama4&layout=compact&langs_count=10&exclude_repo=SIBSIU-schedule-telegram-bot,parser-edu-schedule-SIBSIU-SPO-ISP18)
