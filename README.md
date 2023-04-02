@@ -11,3 +11,6 @@
 <code>💬 telegram: [@gtaskabulov_dev](https://telegram.me/gtaskabulov_dev)</code>
 <code>📫 mail: [gmail](mailto:taskabulov.dev@gmail.com)</code>
 <code>🔵 vk: [Georgy Dumkin (Taskabulov)](https://vk.com/mariama4n)</code>
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mariama4&show_icons=true&theme=dracula)
