@@ -13,5 +13,5 @@
 <code>🔵 vk: [Georgy Dumkin (Taskabulov)](https://vk.com/mariama4n)</code>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mariama4&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariama4&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Mariama4&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariama4&layout=compact)
