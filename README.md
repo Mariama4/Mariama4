@@ -9,8 +9,8 @@
 
 <div>
    <a href="https://github.com/mariama4">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariama4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariama4&layout=compact&langs_count=8&theme=dracula&exclude_repo=SIBSIU-schedule-telegram-bot,parser-edu-schedule-SIBSIU-SPO-ISP18"/>
+   <img height="180em" src="https://github-readme-stats-git-master-mariama4.vercel.app/api?username=mariama4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-git-master-mariama4.vercel.app/api/top-langs/?username=mariama4&layout=compact&langs_count=8&theme=dracula&exclude_repo=SIBSIU-schedule-telegram-bot,parser-edu-schedule-SIBSIU-SPO-ISP18"/>
    </a>
 </div>
 <div style="display: inline_block"><br>
