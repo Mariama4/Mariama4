@@ -8,9 +8,10 @@
 #
 
 <div align="center">
-   <a href="https://github.com/mariama4">
-   <img height="180em" src="https://github-readme-stats-git-master-mariama4.vercel.app/api?username=mariama4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-git-master-mariama4.vercel.app/api/top-langs/?username=mariama4&layout=compact&langs_count=8&theme=dracula&exclude_repo=SIBSIU-schedule-telegram-bot,parser-edu-schedule-SIBSIU-SPO-ISP18"/>
+          <img height="180em" src="https://raw.githubusercontent.com/Mariama4/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+   <img height="180em" src="https://raw.githubusercontent.com/Mariama4/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+<!--         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariama4&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&bg_color=171717&text_color=2a84ea"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariama4&layout=compact&langs_count=8&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea&exclude_repo=SIBSIU-schedule-telegram-bot,parser-edu-schedule-SIBSIU-SPO-ISP18"/> -->
    </a>
 </div>
 <div style="display: inline_block" align="center"><br>
