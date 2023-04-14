@@ -1,7 +1,9 @@
 <img src="demo.gif">
 <div align="center">
-   <h1>👷 Software / Backend / Computer science engineer</h1>   
-<a href="https://github.com/Mariama4/Mariama4/blob/main/SKILLS.md"><strong>💡 Programming & JS & Node.js skills</strong></a> 
+<h1>👷 Software / Backend / Computer science engineer</h1>
+<a href="https://github.com/Mariama4/Mariama4/blob/main/SKILLS.md">
+   <strong>💡 Programming & JS & Node.js skills</strong>
+</a> 
 
 </div>
 
@@ -28,7 +30,7 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/opencv/opencv-original.svg" />
 </div>
 
-#
+---
 
 <div align="center"> 
    <a href = "mailto:taskabulov.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
