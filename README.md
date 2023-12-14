@@ -16,7 +16,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariama4&layout=compact&langs_count=8&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea&exclude_repo=SIBSIU-schedule-telegram-bot,parser-edu-schedule-SIBSIU-SPO-ISP18"/> -->
    </a>
 </div>
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="center"><br>
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" />
