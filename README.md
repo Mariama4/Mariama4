@@ -1,9 +1,9 @@
 <img src="demo.gif">
 <div align="center">
 <h1>👷 Software / Backend / Computer science engineer</h1>
-<a href="https://github.com/Mariama4/Mariama4/blob/main/SKILLS.md">
+<!-- <a href="https://github.com/Mariama4/Mariama4/blob/main/SKILLS.md">
    <strong>💡 Programming & JS & Node.js skills</strong>
-</a> 
+</a>  -->
 
 </div>
 
