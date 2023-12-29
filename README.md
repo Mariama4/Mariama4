@@ -4,7 +4,11 @@
 <!-- <a href="https://github.com/Mariama4/Mariama4/blob/main/SKILLS.md">
    <strong>💡 Programming & JS & Node.js skills</strong>
 </a>  -->
-
+<strong>Publications:</strong>
+<br>
+<a href="https://www.elibrary.ru/item.asp?id=50352543">
+   <strong>Elibrary</strong>
+</a> 
 </div>
 
 #
