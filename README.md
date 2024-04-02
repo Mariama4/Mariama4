@@ -24,7 +24,7 @@
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" />
-   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain.svg" />
+   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" />
    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" />
    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" />
    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" />
