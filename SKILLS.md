@@ -17,14 +17,14 @@
 | 🟩 type              | 🟩 for..in            | 🟦 side effects       | 🟩 deque            | 🟩 decomposition     |
 | 🟩 primitive types   | 🟩 for..of            | 🟩 closure            | 🟩 serialization    | ⬜️ spaghetti         |
 | 🟩 reference         | 🟩 for await          | 🟩 partial            | 🟩 mixin, extend    | ⬜️ silver bullet     |
-| 🟩 flag              | 🟩 throw              | ⬜️ curry              | 🟩 iterator         | ⬜️ not invented here |
+| 🟩 flag              | 🟩 throw              | 🟩 curry              | 🟩 iterator         | ⬜️ not invented here |
 | 🟩 lexical scope     | 🟩 try..catch         | 🟩 chaining           | 🟩 typed arrays     | 🟩 dead code         |
 | 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟩 Map              | 🟩 unreachable code  |
 | 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟩 Set              | 🟩 duplicate code    |
-| 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | ⬜️ weak collections | 🟩 exception         |
-| 🟩 arrow function    | 🟩 break, continue    | ⬜️ pipe               | 🟩 Proxy            | 🟩 return early      |
-| 🟩 generator         | 🟩 switch             | ⬜ compose            | 🟩 Symbol           | 🟩 linter            |
-| 🟩 async function    | 🟩 new Error          | ⬜️ memoize            | 🟩 string parsing   | ⬜️ prettier          |
+| 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | 🟩 weak collections | 🟩 exception         |
+| 🟩 arrow function    | 🟩 break, continue    | 🟩 pipe               | 🟩 Proxy            | 🟩 return early      |
+| 🟩 generator         | 🟩 switch             | 🟩 compose            | 🟩 Symbol           | 🟩 linter            |
+| 🟩 async function    | 🟩 new Error          | 🟩 memoize            | 🟩 string parsing   | 🟩 prettier          |
 | 🟩 call, bind, apply |                       | 🟩 factory            | 🟩 timers           | 🟩 unittest          |
 | 🟩 Array             |                       | 🟩 pool               | 🟩 EventEmitter     | 🟩 git               |
 | 🟩 instanceof        |                       | 🟩 wrapper            | 🟩 RegExp           | 🟩 github            |
@@ -51,7 +51,7 @@
 | 🟩 Reactive programming        | 🟩 Abstract class     | ⬜ Monad             |                          |
 | ⬜ FRP (Functional-reactive)   | 🟩 Interface          | 🟩 Generator         |                          |
 | 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟩 Iterator          |                          |
-| 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟩 Async Iterator    |                          |
+| 🟦 Domain-specific languages   | 🟩 Hidden class       | 🟩 Async Iterator    |                          |
 | 🟦 Multi-paradigm programming  | ⬜ Object form        |                      |                          |
 | ⬜ Metaprogramming             | 🟩 instance           |                      |                          |
 | ⬜ Actor model                 | 🟩 Introspection      |                      |                          |
@@ -71,8 +71,8 @@
 | 🟩 Async Iterator      | 🟩 worker_threads              | ⬜ epoll            | 🟦 Promise.race          |
 | 🟩 Thenable            | 🟦 Atomics                     | 🟩 kqueue           | 🟦 Promise.any           |
 | 🟩 EventEmitter        | 🟩 Blockeing operations        | ⬜ Completion ports | ⬜ Web Locks API         |
-| ⬜ Cancelable callback | 🟩 Non-blocking loop for Array | ⬜ Event ports      | ⬜ Async Pool            |
-| ⬜ Cancelable Promise  | ⬜ High resolution clock       | 🟩 libuv            | ⬜ Thread Pool           |
+| ⬜ Cancelable callback | 🟩 Non-blocking loop for Array | ⬜ Event ports      | 🟩 Async Pool            |
+| ⬜ Cancelable Promise  | ⬜ High resolution clock       | 🟩 libuv            | 🟩 Thread Pool           |
 | 🟩 Asynchronous Queue  | 🟦 Callback hell               | 🟩 Race conditions  | 🟦 callbackify           |
 | ⬜ Future              | 🟦 Promise hell                | 🟦 Dead locks       | 🟦 promisify             |
 | ⬜ Deferred            |                                | 🟦 Live locks       | ⬜ IPC                   |
