@@ -15,6 +15,10 @@
       <strong>«Дата-Кампус»</strong>
     </a>
   </div>
+    <div style="display: inline-block; text-align: left;">
+    <strong>Sites:</strong><br>
+    <a href="https://www.elibrary.ru/item.asp?id=50352543"><strong>Blog</strong></a>
+  </div>
 </div>
 
 
